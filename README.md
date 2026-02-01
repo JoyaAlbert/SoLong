@@ -4,6 +4,9 @@ Descripción
 -----------
 `so_long` es un pequeño juego 2D escrito en C para sistemas Unix/X11. Usa la MiniLibX incluida en la carpeta `mlx/` y otras utilidades del repositorio. El objetivo del juego es mover al jugador por un mapa, recoger todas las coleccionables y alcanzar la salida.
 
+<img width="928" height="566" alt="imagen" src="https://github.com/user-attachments/assets/2c390988-da72-4384-82b1-e89d38126f84" />
+
+
 Características
 ---------------
 - Juego simple tipo laberinto con sprites y ventana gráfica (MiniLibX).
